@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Josimar Sotero
 
-<!--
-**JosimarSF/JosimarSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and freelancer based in Lima, Peru. I'm currently developing my skills as a programmer, focusing mainly on **Python**, with growing experience in **JavaScript**, **CSS**, and **SQL**.
 
-Here are some ideas to get you started:
+Although I’m just getting started publishing projects on GitHub, my goal is to build a solid and professional portfolio over time. This space will reflect my learning journey, practical solutions, and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies I'm using:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+Thanks for visiting my profile.
